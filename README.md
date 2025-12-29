@@ -5,13 +5,13 @@
 > It exists for educational and utility purposes only.
 
 <p align="center">
-  <img src="preview"><br>
+  <img src="https://github.com/MurageKabui/KPLC-Tokens-LookUp-Tool/blob/main/preview.png?raw=true"><br>
 </p>
 
 
 
 ## Overview
-A self-hosted web interface and public API for retrieving Kenya Power (KPLC) prepaid token purchase history and transaction insights.
+A self hosted web interface and public API for retrieving Kenya Power (KPLC) prepaid token purchase history and transaction insights.
 Through analysis of the official KPLC Android application's network interactions, this project provides an accessible REST API and interactive dashboard for meter token data.
 
 ## Features
@@ -23,7 +23,7 @@ Through analysis of the official KPLC Android application's network interactions
 - Browser persistence for saved meter numbers
 - Responsive UI suitable for desktop and mobile
 
-## Live Portal and API Documentation
+## Demo and API Documentation
 
 - Web interface:  
   https://denniskabui.com/projects/my-kplc-token/
@@ -48,7 +48,7 @@ Returns a list of historical token transactions for a specific meter.
 GET /api/tokens/:meter
 ````
 
-- `meter` - String (required): 11-digit prepaid meter number (e.g., `54601446543`)
+- `meter` - String (required): - Prepaid meter number (e.g., `54601446543`)
 
 **Example Request**
 
@@ -121,7 +121,7 @@ curl -X POST "https://denniskabui.com/projects/my-kplc-token/api/explain" \
 3. Review purchase history and visual breakdowns.
 4. Use the API for automation or integration.
 
-## Tech Stack
+## Front End Tech Stack
 
 * HTML5, CSS3, JavaScript
 * jQuery for DOM handling and requests
@@ -141,16 +141,3 @@ curl -X POST "https://denniskabui.com/projects/my-kplc-token/api/explain" \
 * Dependent on upstream KPLC services
 * Responses are limited to what data is available through the reverse-engineered sources
 * The API may break if KPLC changes implementation details
-
-## Contributing
-
-Contributions are accepted via GitHub issues or pull requests. Focus areas include:
-
-* Bug fixes and stability improvements
-* Expanded documentation
-* More comprehensive test coverage
-* UI improvements
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for full terms.
