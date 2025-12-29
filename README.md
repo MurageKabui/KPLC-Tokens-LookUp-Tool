@@ -4,6 +4,10 @@
 > ⚠️ **DISCLAIMER**: This project is **not affiliated with, endorsed by, or connected to** Kenya Power and Lighting Company (KPLC).
 > It exists for educational and utility purposes only.
 
+<p align="center">
+  <img src="preview"><br>
+</p>
+
 
 
 ## Overview
