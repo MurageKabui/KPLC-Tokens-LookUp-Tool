@@ -10,6 +10,13 @@
 > It exists for educational and utility purposes only.
 
 
+- Web interface:  
+  https://denniskabui.com/projects/my-kplc-token/
+- API reference:  
+  https://denniskabui.com/projects/my-kplc-token/docs.html
+
+<hr>
+  
 ## Overview
 A self hosted web interface and public API for retrieving Kenya Power (KPLC) prepaid token purchase history and transaction insights.
 Through analysis of the official KPLC Android application's network interactions, this project provides an accessible REST API and interactive dashboard for meter token data.
@@ -22,13 +29,6 @@ Through analysis of the official KPLC Android application's network interactions
 - Public REST API for integrations
 - Browser persistence for saved meter numbers
 - Responsive UI suitable for desktop and mobile
-
-## Demo and API Documentation
-
-- Web interface:  
-  https://denniskabui.com/projects/my-kplc-token/
-- API reference:  
-  https://denniskabui.com/projects/my-kplc-token/docs.html
 
 ## API Reference
 
