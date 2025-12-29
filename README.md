@@ -1,18 +1,20 @@
-# KPLC Token Lookup Tool (Unofficial)
+<h1 align="center">KPLC Token Lookup Tool</h1>
+<p align="center">An Open API for retrieving Kenya Power (KPLC) prepaid token purchase history and insights</p>
 
-A self-hosted web interface and public API for retrieving Kenya Power (KPLC) prepaid token purchase history and insights.
+> ⚠️ **DISCLAIMER**: This project is **not affiliated with, endorsed by, or connected to** Kenya Power and Lighting Company (KPLC).
+> It exists for educational and utility purposes only.
 
-This project reverses network behavior from the official KPLC mobile app to provide a usable REST API and interactive dashboard for meter token data.
 
-## Disclaimer
 
-This project is **not affiliated with, endorsed by, or connected to** Kenya Power and Lighting Company (KPLC). It exists for educational and utility purposes only.
+## Overview
+A self-hosted web interface and public API for retrieving Kenya Power (KPLC) prepaid token purchase history and transaction insights.
+Through analysis of the official KPLC Android application's network interactions, this project provides an accessible REST API and interactive dashboard for meter token data.
 
 ## Features
 
-- Retrieve full token purchase history for a meter number
+- Retrieve full token purchase history for a given meter number
 - Cost and unit breakdown per transaction
-- AI-powered explanation of cost components
+- AI-powered break down of cost components
 - Public REST API for integrations
 - Browser persistence for saved meter numbers
 - Responsive UI suitable for desktop and mobile
