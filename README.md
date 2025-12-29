@@ -1,13 +1,13 @@
 <h1 align="center">KPLC Token Lookup Tool</h1>
 <p align="center">An Open API for retrieving Kenya Power (KPLC) prepaid token purchase history and insights</p>
 
-> ⚠️ **DISCLAIMER**: This project is **not affiliated with, endorsed by, or connected to** Kenya Power and Lighting Company (KPLC).
-> It exists for educational and utility purposes only.
-
 <p align="center">
   <img src="https://github.com/MurageKabui/KPLC-Tokens-LookUp-Tool/blob/main/preview.png?raw=true"><br>
 </p>
 
+
+> ⚠️ **DISCLAIMER**: This project is **not affiliated with, endorsed by, or connected to** Kenya Power and Lighting Company (KPLC).
+> It exists for educational and utility purposes only.
 
 
 ## Overview
