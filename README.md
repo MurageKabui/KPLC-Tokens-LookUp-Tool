@@ -10,6 +10,7 @@
 > It exists for educational and utility purposes only.
 
 
+- Full walkthrough, including the interception methodology, is available at : https://blog.denniskabui.com/reverse-engineering-mypower/
 - Web interface:  
   https://denniskabui.com/projects/my-kplc-token/
 - API reference:  
